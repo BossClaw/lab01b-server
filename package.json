@@ -1,0 +1,10 @@
+{
+	"name": "lab01b",
+	"version": "0.7.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"		
+	},	
+	"type": "commonjs"
+}
